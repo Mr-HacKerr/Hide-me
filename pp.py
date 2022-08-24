@@ -1,1 +1,2 @@
 import ppp
+ppp.logo()
