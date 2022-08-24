@@ -1,8 +1,8 @@
-<h1>For Run<\h1>
--pkg update 
--pkg upgrade
--pkg install git 
--pkg install python 
--pkg install python2
+<h1>For Run<br>
+-pkg update <br>
+-pkg upgrade<br>
+-pkg install git <br>
+-pkg install python <br>
+-pkg install python2<br>
 -rm -rf Hide-me
 -git clone 
