@@ -12,4 +12,10 @@
 -rm -rf Hide-me<br>
 -git clone https://github.com/Mr-HacKerr/Hide-me.git<br>
 -cd Hide-me <br>
--python2 Compile.py<br>
+# Run Script
+
+- cd Uid
+
+- bash requirements.txt
+
+- python Dump.py `
