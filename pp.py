@@ -1,1 +1,2 @@
 import dzz
+dzz.menu()
