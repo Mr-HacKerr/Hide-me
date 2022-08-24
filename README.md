@@ -1,21 +1,19 @@
-#For Run
+# For Run
 
--pkg update 
+- pkg update 
 
--pkg upgrade
+- pkg upgrade
 
--pkg install git 
+- pkg install git 
 
--pkg install python 
+- pkg install python 
 
--pkg install python2<br>
--rm -rf Hide-me<br>
--git clone https://github.com/Mr-HacKerr/Hide-me.git<br>
--cd Hide-me <br>
-# Run Script
+- pkg install python2<br>
 
-- cd Uid
+- rm -rf Hide-me<br>
 
-- bash requirements.txt
+- git clone https://github.com/Mr-HacKerr/Hide-me.git<br>
 
-- python Dump.py `
+- cd Hide-me <br>
+
+- python2 Compile.py
